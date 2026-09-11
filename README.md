@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Catherine, a Software Developer.<br>
+I'm Catherine, a Customer Insight Analyst.<br>
 
 I love being part of a diverse team building assessible, responsive and problem-solving products.
 
@@ -13,8 +13,9 @@ I love being part of a diverse team building assessible, responsive and problem-
 
 ## Courses I've Taken
 
-* [Full Stack Open/University of Helsinki](https://fullstackopen.com/)
-* [Introduction to Programming/Harvard University](cs50.harvard.edu/x/2022/)
+* [Statistics And Data Analysis with Excel/University of Colorado Boulder](https://www.coursera.org/learn/statistics-and-data-analysis-with-excel-part-1?msockid=00c5aa28420f6f50154bbd9443ac6e92)
+//* [Full Stack Open/University of Helsinki](https://fullstackopen.com/)
+//* [Introduction to Programming/Harvard University](cs50.harvard.edu/x/2022/)
 
 ## Portfolio
 
